@@ -53,6 +53,7 @@ add_message_files(
   FILES
   RadarObject.msg
   RadarObjectArray.msg
+  HmiConfig.msg
 )
 
 ## Generate services in the 'srv' folder
