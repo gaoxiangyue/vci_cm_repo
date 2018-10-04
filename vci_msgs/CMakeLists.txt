@@ -54,6 +54,12 @@ add_message_files(
   RadarObject.msg
   RadarObjectArray.msg
   HmiConfig.msg
+  BoundingBox.msg
+  BoundingBoxes.msg
+  LaneParam.msg 
+  LaneParams.msg 
+  TrackingBox.msg 
+  TrackingBoxes.msg 
 )
 
 ## Generate services in the 'srv' folder
