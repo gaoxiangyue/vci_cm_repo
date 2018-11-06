@@ -19,7 +19,7 @@ uint8 probofexist                     #Probability of existence
 
 # The extended info of the object
 float32 are_long                      #Relative acceleration in longitudinal direction
-uint8 obj_class                           #point/car/truck/not in use/motorcycle/bicycle/wide/reserved
+uint8 obj_class                       #point/car/truck/not in use/motorcycle/bicycle/wide/reserved
 float32 are_lat                       #Relative acceleration in lateral direction (y)[permanently set to “Zero”]
 float32 orientation_angle             #Orientation angle of the object
 float32 length                        #Length of the tracked object
